@@ -12,7 +12,7 @@ This Power BI dashboard analyzes pizza sales performance to identify revenue tre
 - Interactive slicers for filtering data
   
 ## ⚙️ Tools used
-* Power BI * - Interactive dashboard design
+* Power BI - Interactive dashboard design
   
 ## 🗂 Files in this Repository
 - Pizza Sales Dashboard.pbix → Power BI project file
@@ -32,3 +32,9 @@ This Power BI dashboard analyzes pizza sales performance to identify revenue tre
 
 ## Dataset
  "Dataset not shared due to confidentiality."
+ 
+## 📈 Dashboard preview
+
+<img width="1318" height="729" alt="Screenshot 2025-08-20 014249" src="https://github.com/user-attachments/assets/48d88f5d-9156-4aff-8857-ca18c4d8c46a" />
+
+### 📌Project by - Monisha kannan
