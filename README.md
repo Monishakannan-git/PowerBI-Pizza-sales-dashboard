@@ -1,5 +1,5 @@
 
-# 🍕 Pizza Sales Dashboard (Power BI)
+# 🍕 Pizza Sales Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes pizza sales performance to identify revenue trends, customer preferences, and top-performing products.
@@ -10,10 +10,20 @@ This Power BI dashboard analyzes pizza sales performance to identify revenue tre
 - Top 5 pizza categories and sizes
 - Customer ordering behavior
 - Interactive slicers for filtering data
-
+- 
+## ⚙️ Tools used
+* Power BI * - Interactive dashboard design
+* 
 ## 🗂 Files in this Repository
 - Pizza Sales Dashboard.pbix → Power BI project file
-- README.md → Documentation
+
+## 📊 Key insights
+🍕 Top Seller: Classic Deluxe 
+💰 Peak Day: Friday ($138K)
+🕒 Peak Hours: 7–9 PM (77.4K pizzas)
+🪑 Seats Used: 4.13K
+📉 Low Month: Sept 
+🏆 Top Category: Classic
 
 ## 🚀 How to Use
 1. Download the .pbix file.
