@@ -10,10 +10,10 @@ This Power BI dashboard analyzes pizza sales performance to identify revenue tre
 - Top 5 pizza categories and sizes
 - Customer ordering behavior
 - Interactive slicers for filtering data
-- 
+  
 ## ⚙️ Tools used
 * Power BI * - Interactive dashboard design
-* 
+  
 ## 🗂 Files in this Repository
 - Pizza Sales Dashboard.pbix → Power BI project file
 
